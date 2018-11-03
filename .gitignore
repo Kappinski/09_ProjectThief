@@ -95,3 +95,6 @@ ProjectThief/Content/StarterContent/
 *.suo
 *.VC.opendb
 *.sln
+
+#Assets
+*/Sounds
